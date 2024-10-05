@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+./build*
+build/CMakeCache.txt
+build/.cmake/api/v1/query/client-vscode/query.json
+build/CMakeFiles/cmake.check_cache
+build/CMakeFiles/CMakeConfigureLog.yaml
+build/CMakeFiles/3.28.3/CMakeCXXCompiler.cmake
+build/CMakeFiles/3.28.3/CMakeDetermineCompilerABI_CXX.bin
+build/CMakeFiles/3.28.3/CMakeSystem.cmake
+build/CMakeFiles/3.28.3/CompilerIdCXX/CMakeCXXCompilerId.cpp
